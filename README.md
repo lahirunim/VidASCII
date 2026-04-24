@@ -25,7 +25,6 @@ experience entirely on the client side.
 ## Video guide
 [Watch the tutorial](https://youtu.be/_fWkQK3yoZo)
 
-<img width="909" height="536" alt="vlcsnap-2026-04-24-15h14m16s006" src="https://github.com/user-attachments/assets/46cae5d1-be46-4ddd-ab8a-144f71d2b02b" />
 <img width="548" height="480" alt="vlcsnap-2026-04-24-15h13m52s820" src="https://github.com/user-attachments/assets/c04bdfd7-a938-499a-8802-51a3023e6305" />
 
 
